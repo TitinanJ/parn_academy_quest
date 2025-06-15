@@ -1,0 +1,37 @@
+example_id                                              | status  | run_time        |
+------------------------------------------------------- | ------- | --------------- |
+./spec/helpers/brag_helper_spec.rb[1:1]                 | pending | 0 seconds       |
+./spec/helpers/quests_helper_spec.rb[1:1]               | pending | 0.00002 seconds |
+./spec/models/quest_spec.rb[1:1:1]                      | passed  | 0.2092 seconds  |
+./spec/models/quest_spec.rb[1:2:1]                      | passed  | 0.223 seconds   |
+./spec/models/quest_spec.rb[1:2:2]                      | passed  | 0.22705 seconds |
+./spec/models/quest_spec.rb[1:2:3]                      | passed  | 0.21766 seconds |
+./spec/requests/brag_spec.rb[1:1:1]                     | passed  | 0.21294 seconds |
+./spec/requests/brag_spec.rb[1:2:1]                     | passed  | 0.22394 seconds |
+./spec/requests/quests_spec.rb[1:1:1]                   | pending | 0.21861 seconds |
+./spec/requests/quests_spec.rb[1:2:1]                   | pending | 0.21154 seconds |
+./spec/requests/quests_spec.rb[1:3:1]                   | passed  | 0.23712 seconds |
+./spec/requests/quests_spec.rb[1:4:1]                   | pending | 0.21774 seconds |
+./spec/requests/quests_spec.rb[1:5:1:1]                 | pending | 0.26973 seconds |
+./spec/requests/quests_spec.rb[1:5:1:2]                 | pending | 0.21992 seconds |
+./spec/requests/quests_spec.rb[1:5:2:1]                 | pending | 0.27927 seconds |
+./spec/requests/quests_spec.rb[1:5:2:2]                 | pending | 0.21732 seconds |
+./spec/requests/quests_spec.rb[1:6:1:1]                 | pending | 0.21032 seconds |
+./spec/requests/quests_spec.rb[1:6:1:2]                 | pending | 0.20991 seconds |
+./spec/requests/quests_spec.rb[1:6:2:1]                 | pending | 0.25005 seconds |
+./spec/requests/quests_spec.rb[1:7:1]                   | pending | 0.20917 seconds |
+./spec/requests/quests_spec.rb[1:7:2]                   | pending | 0.20883 seconds |
+./spec/routing/quests_routing_spec.rb[1:1:1]            | passed  | 0.20742 seconds |
+./spec/routing/quests_routing_spec.rb[1:1:2]            | passed  | 0.22337 seconds |
+./spec/routing/quests_routing_spec.rb[1:1:3]            | passed  | 0.21477 seconds |
+./spec/routing/quests_routing_spec.rb[1:1:4]            | passed  | 0.21043 seconds |
+./spec/routing/quests_routing_spec.rb[1:1:5]            | passed  | 0.22309 seconds |
+./spec/routing/quests_routing_spec.rb[1:1:6]            | passed  | 0.22527 seconds |
+./spec/routing/quests_routing_spec.rb[1:1:7]            | passed  | 0.21384 seconds |
+./spec/routing/quests_routing_spec.rb[1:1:8]            | passed  | 0.21106 seconds |
+./spec/views/brag/index.html.tailwindcss_spec.rb[1:1]   | pending | 0 seconds       |
+./spec/views/brag/show.html.tailwindcss_spec.rb[1:1]    | pending | 0.00002 seconds |
+./spec/views/quests/edit.html.tailwindcss_spec.rb[1:1]  | passed  | 1.56 seconds    |
+./spec/views/quests/index.html.tailwindcss_spec.rb[1:1] | failed  | 0.571 seconds   |
+./spec/views/quests/new.html.tailwindcss_spec.rb[1:1]   | passed  | 0.23862 seconds |
+./spec/views/quests/show.html.tailwindcss_spec.rb[1:1]  | failed  | 0.411 seconds   |
